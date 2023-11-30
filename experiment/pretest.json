@@ -1,39 +1,58 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+    "version": 2.0,
+    "questions":[
+		{
+			"question": "In pulse width modulated inverters, the output voltage is controlled by controlling which of the following?",
+			"answers": {
+				"a": "Input frequency",
+				"b": "Amplification factor",
+				"c": "Modulating index",
+				"d": "None of the above"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "What will be the effect of increasing the number of pulses on inverter?",
+			"answers": {
+				"a": "Reduces the output voltage amplitude",
+				"b": "Improves the inverter efficiency",
+				"c": "Reduces the inverter efficiency",
+				"d": "None of the above"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "In sinusoidal pulse width modulation, __________ wave is compared with a ___________ type of wave?",
+			"answers": {
+				"a": "Square, sinusoidal",
+				"b": "Sinusoidal, triangular",
+				"c": "Sinusoidal, quasi-square",
+				"d": "none of the mentioned"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "In PWM, the comparator output is further given to a ____________?",
+			"answers": {
+				"a": "Integrator",
+				"b": "SCR devices",
+				"c": "Snubber circuit",
+				"d": "Trigger pulse generator"
+			},
+			"correctAnswer": "d"
+		},
+		{
+			"question": "In ___________ type of modulation method, the pulse width is not equal for all the pulses?",
+			"answers": {
+				"a": "Single pulse width modulation",
+				"b": "Sinusoidal pulse width modulation",
+				"c": "Multiple pulse width modulation",
+				"d": "None of the above"
+			},
+			"correctAnswer": "b"
+		}
+	]
 }
+
+
+
