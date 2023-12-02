@@ -1,1 +1,1 @@
-## Experiment name
+## Three Phase Voltage Source Inverter with SPWM
