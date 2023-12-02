@@ -10,7 +10,7 @@ sinusoidal waveform. In a 3-phase inverter, three separate SPWM signals are gene
 comparing a high-frequency triangular waveform with three sinusoidal reference waveforms (one for each phase)
 to determine the pulse widths of the inverter's switching devices.
 
-<center> <img src="images\Fig 1.PNG "style="height: 600px; width: 850px; -webkit-filter:contrast(250%); mix-blend-mode: darken; -webkit-filter:grayscale(100%); ">
+<center> <img src="images\Fig 1.png "style="height: 600px; width: 850px; -webkit-filter:contrast(250%); mix-blend-mode: darken; -webkit-filter:grayscale(100%); ">
           </center>
           <center><b>Fig. 1 Three Phase Voltage Source Inverter with SPWM</b></center><br>
 
