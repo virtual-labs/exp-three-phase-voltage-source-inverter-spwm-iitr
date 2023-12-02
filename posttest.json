@@ -1,0 +1,52 @@
+[
+		{
+			"question": "A PWM switching scheme is used with three phase inverter to ?",
+			"answers": {
+				"a": "Reduce the total harmonic distortion with modest filtering",
+				"b": "Increase the life of the batteries",
+				"c": "Minimize the load on the DC side",
+				"d": "Reduce low order harmonics and increase high order harmonics"
+			},
+			"correctAnswer": "d"
+		},
+		{
+			"question": "A 3-phase grid-connected voltage source converter with DC link voltage of 1000 V is switched using sinusoidal Pulse Width Modulation (PWM) technique. If the rid phase current is 10 A and the 3-phase complex power supplied by the converter is given by (-4000 - j3000) VA, then the modulation index used in sinusoidal PWM is _________ (round off to two decimal places)?",
+			"answers": {
+				"a": "Ma = 0.47",
+				"b": "Ma = 0.72",
+				"c": "Ma = 0.56",
+				"d": "Ma = 0.95"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "Six MOSFETS connected in a bridge configuration (having no other power device) MUST be operated as Voltage Source Inverter (VSI)″. This statement is:",
+			"answers": {
+				"a": "True, because being majority carrier devices. MOSFETs are voltage driven",
+				"b": "False, because it can be operated as both as Current Source Inverter (CSI) or a Voltage Source Inverter (VSI)",
+				"c": "True, because MOSFETs have inherently anti-parallel diodes",
+				"d": "False, because MOSFETs can be operated as excellent constant current sources in the saturation region"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "What does the modulation index value of 0 represent in SPWM?",
+			"answers": {
+				"a": "The inverter is at full output voltage",
+				"b": "The reference waveform is not compared with the carrier waveform",
+				"c": "The inverter is OFF",
+				"d": "The inverter is at half output voltage"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "What is the primary reason for using SPWM in a grid-tied inverter?",
+			"answers": {
+				"a": "To reduce the number of switches in the inverter",
+				"b": "To synchronize the inverter with the utility grid frequency",
+				"c": "To achieve higher efficiency in power conversion",
+				"d": "To generate a higher output voltage"
+			},
+			"correctAnswer": "b"
+		}
+	]
